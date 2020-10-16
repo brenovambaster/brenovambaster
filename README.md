@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![photo](./photo1.png)
+![photo](./photo2.png)
 <center>
 <table>
     <tr>
