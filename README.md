@@ -4,8 +4,12 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenovambaster&hide=html&layout=compact&theme=chartreuse-dark" /></td>
-        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=brenovambaster&langs_count=8&theme=chartreuse-dark&layout=compact&show_icons=true&count_private=true&include_all_commits=true"/></td>
+        <td>
+            <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenovambaster&hide=html&&langs_count=8&layout=compact&theme=chartreuse-dark" />
+        </td>
+        <td>
+            <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=brenovambaster&langs_count=8&theme=chartreuse-dark&layout=compact&show_icons=true&count_private=true&include_all_commits=true"/>
+        </td>
     </tr>   
 </table>
 </center>
