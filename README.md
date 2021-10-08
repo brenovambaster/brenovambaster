@@ -18,8 +18,7 @@
 </p>
 
 <!--  profile picture  --> 
-<img width="" align="left" src="https://github.com/brenovambaster/brenovambaster/blob/main/photo2.png?raw=true" />
-
+![img](https://github.com/brenovambaster/brenovambaster/blob/main/photo2.png?raw=true")
 
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 ## 📘 My top open source projects
