@@ -5,27 +5,30 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23E640D7&center=true&vCenter=true&width=401&height=40&lines=I'm+Junior+Developer...;and+Computer+Science+Student"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%25E640D7&size=28&center=true&vCenter=true&width=401&height=45&lines=I'm+Junior+Developer...;and+Computer+Science+Student"></a>
 </p>
 
 
 <p align="center">
   <a href="mailto:brenovambaster5@gmail.com"> <img width="32px" alt="Gmail" title="gmail" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1633701202~hmac=3bd2ff34d09e4ac198a41ffbbdfde709"/></a> 
-     &#8287;&#8287; &#8287;&#8287;
+    &#8287;&#8287; &#8287;&#8287;
   <a href="https://twitter.com/brenoVambaster"> <img width="32px" alt="Twitter" title="twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/></a>
+    &#8287;&#8287; &#8287;&#8287;
+  <a href="https://www.instagram.com/brenovambaster/"> <img width="32px" alt="Twitter" title="twitter" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>
 </p>
 
 <!--  profile picture  --> 
 <img width="" align="left" src="https://github.com/brenovambaster/brenovambaster/blob/main/photo2.png?raw=true" />
 
-<br/> <br/>
-<table border="0">
-<tr border="0">
+
+</br></br>
+<table>
+<tr>
     <td>
-        <a href="#"> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenovambaster&hide=html&langs_count=8&layout=compact" /> </a>
+    <a href="#"> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenovambaster&hide=html&langs_count=8&layout=compact" /> </a>
     </td>
     <td>
-        <a href="#"> <img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=brenovambaster&langs_count=8&theme=default&layout=compact&show_icons=true&count_private=true&include_all_commits=true"/> </a>
+    <a href="#"> <img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=brenovambaster&langs_count=8&theme=default&layout=compact&show_icons=true&count_private=true&include_all_commits=true"/> </a>
     </td>
 </tr>
 <table>
