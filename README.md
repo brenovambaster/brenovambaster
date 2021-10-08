@@ -22,16 +22,17 @@
 
 
 </br></br>
+
 <table>
-<tr>
+ <tr>
     <td>
-    <a href="#"> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenovambaster&hide=html&langs_count=8&layout=compact" /> </a>
+    <a href="#"> <img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenovambaster&hide=html&langs_count=8&layout=compact" /> </a>
     </td>
     <td>
-    <a href="#"> <img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=brenovambaster&langs_count=8&theme=default&layout=compact&show_icons=true&count_private=true&include_all_commits=true"/> </a>
+    <a href="#"> <img width="510px" align="left" src="https://github-readme-stats.vercel.app/api?username=brenovambaster&langs_count=8&theme=default&layout=compact&show_icons=true&count_private=true&include_all_commits=true"/> </a>
     </td>
 </tr>
-<table>
+</table>
 
 <p align="center">👁️Profile views👁️</p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/brenovambaster/count.svg" /></p>
