@@ -35,9 +35,9 @@
 
 ## 📊 Github stats
 
-&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="#" > <img algin="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenovambaster&hide=html&langs_count=8&layout=compact" /> </a>
-<a href="#" algin="right" > <img algin="right" width="480px"  src="https://github-readme-stats.vercel.app/api?username=brenovambaster&langs_count=8&theme=default&layout=compact&show_icons=true&count_private=true&include_all_commits=true" /> </a>
+<a href="#" algin="right" > <img algin="right" width="470px"  src="https://github-readme-stats.vercel.app/api?username=brenovambaster&langs_count=8&theme=default&layout=compact&show_icons=true&count_private=true&include_all_commits=true" /> </a>
    
 
 
