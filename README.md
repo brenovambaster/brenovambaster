@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="mailto:brenovambaster5@gmail.com"> <img width="32px" alt="Gmail" title="gmail" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1633701202~hmac=3bd2ff34d09e4ac198a41ffbbdfde709"/></a> 
+  <a href="http://brenovambaster5@gmail.com"> <img width="32px" alt="Gmail" title="gmail" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1633701202~hmac=3bd2ff34d09e4ac198a41ffbbdfde709"/></a> 
     &#8287;&#8287; &#8287;&#8287;
   <a href="https://twitter.com/brenoVambaster"> <img width="32px" alt="Twitter" title="twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/></a>
     &#8287;&#8287; &#8287;&#8287;
@@ -21,23 +21,9 @@
 <img width="" align="left" src="https://github.com/brenovambaster/brenovambaster/blob/main/photo2.png?raw=true" />
 
 
-</br></br>
-
-<table>
- <tr>
-    <td>
-    <a href="#"> <img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenovambaster&hide=html&langs_count=8&layout=compact" /> </a>
-    </td>
-    <td>
-    <a href="#"> <img width="510px" align="left" src="https://github-readme-stats.vercel.app/api?username=brenovambaster&langs_count=8&theme=default&layout=compact&show_icons=true&count_private=true&include_all_commits=true"/> </a>
-    </td>
-</tr>
-</table>
-
-<p align="center">👁️Profile views👁️</p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/brenovambaster/count.svg" /></p>
-
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 ## 📘 My top open source projects
+
 <p align="left">
     <a href="https://github.com/brenovambaster/guia-git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenovambaster&repo=guia-git&theme=algolia" ></a>
     <a href="https://github.com/brenovambaster/Projeto-TreeManager"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenovambaster&repo=Projeto-TreeManager&theme=algolia" ></a>
@@ -48,5 +34,11 @@
 </p>
 
 ## 📊 Github stats
+
+&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="#" > <img algin="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenovambaster&hide=html&langs_count=8&layout=compact" /> </a>
+<a href="#" algin="right" > <img algin="right" width="480px"  src="https://github-readme-stats.vercel.app/api?username=brenovambaster&langs_count=8&theme=default&layout=compact&show_icons=true&count_private=true&include_all_commits=true" /> </a>
+   
+
 
 <a href="https://github.com/brenovambaster/brenovambaster"><img alt="Breno Vambáster Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brenovambaster&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
