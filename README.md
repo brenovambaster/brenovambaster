@@ -20,7 +20,7 @@
 <!--  profile picture  --> 
 ![img](https://github.com/brenovambaster/brenovambaster/blob/main/photo2.png?raw=true")
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br>
 ## 📘 My top open source projects
 
 <p align="left">
