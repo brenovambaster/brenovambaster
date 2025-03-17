@@ -83,11 +83,3 @@ I'm a junior developer passionate about programming and technological solutions.
     <img alt="Breno Vambáster's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=brenovambaster&theme=tokyo-night" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <b>Thanks for visiting my profile! 👨‍💻</b>
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=brenovambaster.brenovambaster)
-</div>
