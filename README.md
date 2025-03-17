@@ -24,9 +24,9 @@ I'm a junior developer passionate about programming and technological solutions.
 ## 💻 Technical Skills
 
 ```
-📚 Languages: JavaScript, Java, Python, C++
+📚 Languages: JavaScript, Java, PHP, Python, C, C++
 🔧 Frameworks: React, Node.js, Spring Boot, Yii
-🛠️ Tools: Git, GitHub, VS Code
+🛠️ Tools: Git, GitHub, VS Code, Docker
 🌐 Web: HTML, CSS, REST API
 📊 Data: Algorithms and Data Structures
 ```
