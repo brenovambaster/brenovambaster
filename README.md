@@ -70,10 +70,3 @@ I'm a junior developer passionate about programming and technological solutions.
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/brenovambaster/brenovambaster">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=brenovambaster&theme=tokyonight" alt="Streak Stats"/>
-  </a>
-</div>
-
-<br>
