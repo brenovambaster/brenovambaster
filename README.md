@@ -1,13 +1,10 @@
-# 👋 Welcome to Breno Vambáster's Profile!
+#  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to Breno Vambáster's Profile!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</div>
-
+<!--
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%25E640D7&size=28&center=true&vCenter=true&width=401&height=45&lines=Junior+Developer...;and+Computer+Science+Student"></a>
 </p>
-
+-->
 <div align="center">
   
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenovambaster5@gmail.com)
