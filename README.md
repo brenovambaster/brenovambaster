@@ -114,15 +114,10 @@ Sou um desenvolvedor **júnior** apaixonado por criar soluções tecnológicas i
 
 ---
 
-## 📈 Atividade no GitHub
-
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brenovambaster&theme=dracula)](https://github.com/brenovambaster/brenovambaster)
-
----
 
 
 <div align="center">
   
-  ### 💡 "A jornada de mil milhas começa com um único passo" 
+  💡 "A jornada de mil milhas começa com um único passo" 
   
 </div>
