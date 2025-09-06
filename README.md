@@ -25,8 +25,7 @@ Sou um desenvolvedor **júnior** apaixonado por criar soluções tecnológicas i
 - 🔭 **Atualmente trabalhando em:** Projetos de desenvolvimento web full-stack
 - 🌱 **Aprendendo:** Estruturas de Dados Avançadas, Design Patterns e DevOps
 - 👯 **Procurando colaborar em:** Projetos open source e iniciativas da comunidade
-- 💬 **Pergunte-me sobre:** JavaScript, Java, React, Node.js
-- ⚡ **Curiosidade:** Adoro resolver problemas algorítmicos e contribuir para projetos open source
+- ⚡ **Curiosidade:** Gosto de resolver problemas algorítmicos e contribuir para projetos open source
 
 ---
 
@@ -117,15 +116,12 @@ Sou um desenvolvedor **júnior** apaixonado por criar soluções tecnológicas i
 
 ## 📈 Atividade no GitHub
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=brenovambaster&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
-</div>
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brenovambaster&theme=dracula)](https://github.com/brenovambaster/brenovambaster)
 
 ---
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brenovambaster&color=2196F3&style=for-the-badge" alt="Profile Views"/>
   
   ### 💡 "A jornada de mil milhas começa com um único passo" 
   
